@@ -23,7 +23,7 @@ export default function GallerySection() {
 					</div>
 					<div className="text-center">
 						<Image
-							src="/placeholder.svg?height=400&width=500"
+							src="/naillist.jpg"
 							alt="Nail Art Example 2"
 							width={500}
 							height={400}
