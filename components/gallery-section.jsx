@@ -7,7 +7,7 @@ export default function GallerySection() {
 				<div className="grid grid-cols-1 md:grid-cols-2 gap-12">
 					<div className="text-center">
 						<Image
-							src="/placeholder.svg?height=400&width=500"
+							src="/nailcare.jpeg"
 							alt="Nail Art Example 1"
 							width={500}
 							height={400}

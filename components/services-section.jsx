@@ -8,20 +8,20 @@ export default function ServicesSection() {
 			title: "Natural Gel Extensions",
 			description:
 				"100% Organic Sculptured Gel Extensions which last up to 6 whole weeks",
-			image: "/placeholder.svg?height=400&width=300",
+			image: "/gel_extensions.jpeg",
 		},
 		{
 			category: "BEST • MANICURES",
 			title: "Organic Gel Nails",
 			description:
 				"Our Gel Strengthening Overlay lasts up to 6 weeks and is designed for nail biters and those who want to grow their nails naturally in 1 month",
-			image: "/organicgelnails.jpg",
+			image: "/organic_gel.jpeg",
 		},
 		{
 			category: "SILKY • PEDICURES",
 			title: "Perfect Pedicures",
 			description: `The softest feet you'll ever have with our "SMART" technology disks`,
-			image: "/placeholder.svg?height=400&width=300",
+			image: "/pedicure.jpeg",
 		},
 	];
 
