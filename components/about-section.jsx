@@ -2,8 +2,8 @@ export default function AboutSection() {
 	return (
 		<section className="py-24 bg-white">
 			<div className="container mx-auto px-4">
-				<div className="text-center max-w-4xl mx-auto">
-					<p className="text-amber-600 font-medium mb-4">
+				<div className="text-center max-w-3xl mx-auto">
+					<p className="text-amber-600 font-medium mb-5">
 						ABOUT • SALON
 					</p>
 					<h2 className="text-4xl md:text-5xl font-serif mb-8">
