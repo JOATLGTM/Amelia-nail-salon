@@ -30,10 +30,10 @@ export default function GallerySection() {
 							className="w-full h-[400px] object-cover mb-6"
 						/>
 						<h3 className="text-2xl font-serif mb-4">
-							Creative Designs
+							Nail Polish
 						</h3>
 						<p className="text-gray-600">
-							Custom nail art tailored to your style
+							An Array of nail polish for your needs
 						</p>
 					</div>
 				</div>
