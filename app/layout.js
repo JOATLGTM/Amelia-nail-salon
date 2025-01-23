@@ -1,14 +1,19 @@
 import "./globals.css";
+import { Inter } from "next/font/google";
+
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
 	title: "Amelia Nail Salon",
-	description: "Columbus Nail Salon ready to make your nails",
+	description: "The best nails in Columbus",
 };
 
 export default function RootLayout({ children }) {
 	return (
 		<html lang="en">
-			<body>{children}</body>
+			<body className={inter.className}>
+				<div className="relative min-h-screen">{children}</div>
+			</body>
 		</html>
 	);
 }
