@@ -32,7 +32,9 @@ export default function AboutSection() {
 						favorite nail destination!
 					</p>
 					<button className="border border-amber-600 text-amber-600 px-8 py-3 hover:bg-amber-600 hover:text-white transition-colors">
-						BOOK APPOINTMENT
+						<a href="https://calendly.com/amelia-nail-salon">
+							BOOK APPOINTMENT
+						</a>
 					</button>
 				</div>
 			</div>

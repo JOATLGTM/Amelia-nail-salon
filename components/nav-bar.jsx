@@ -35,14 +35,16 @@ export default function NavBar() {
 						</Link>
 					</div>
 					<div className="hidden md:block pr-12">
-						{/* <Link
-              href="/contact"
-              className={`text-white hover:text-gray-200 transition-colors px-4 py-2 ${
-                pathname === "/contact" ? "border-b-2 border-white" : ""
-              }`}
-            >
-              Contact
-            </Link> */}
+						<Link
+							href="https://calendly.com/amelia-nail-salon"
+							className={`text-white hover:text-gray-200 transition-colors px-4 py-2 ${
+								pathname === "/contact"
+									? "border-b-2 border-white"
+									: ""
+							}`}
+						>
+							Book an appointment
+						</Link>
 					</div>
 				</div>
 			</div>
