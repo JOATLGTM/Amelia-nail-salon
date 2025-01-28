@@ -37,6 +37,7 @@ export default function NavBar() {
 					<div className="hidden md:block pr-12">
 						<Link
 							// href="https://calendly.com/amelia-nail-salon"
+							href="/"
 							className={`text-white hover:text-gray-200 transition-colors px-4 py-2 ${
 								pathname === "/contact"
 									? "border-b-2 border-white"
